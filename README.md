@@ -1,2 +1,2 @@
 # Text-merger
-Python program to mix senteces of two files one below the other
+Python program to mix senteces of two Word files one below the other
